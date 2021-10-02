@@ -1,7 +1,8 @@
-### Olá, Eu sou o Vitor Freitas👋
+### Olá, Eu sou o Vitor Freitas!
 
-- 🔭 Hoje eu trabalho com à area de Infra, sou Assistente de TI
-- 🌱 Cursando o curso de Sistemas de Informação
+- Trabalho: Hoje eu trabalho com à area de Infra, sou Assistente de TI.
+- Formação: Cursando o curso de Sistemas de Informação.
+- Empresa: Engetron Nobreaks
 
 <div align="center">
   <a href="https://github.com/vtfreitasx">
