@@ -1,6 +1,6 @@
 ### Olá, Eu sou o Vitor Freitas!
 
-- Trabalho: Hoje eu trabalho com à area de Infra, sou Assistente de TI.
+- Área de atuação: Hoje eu trabalho com à area de Infra, sou Assistente de TI.
 - Formação: Cursando o curso de Sistemas de Informação.
 - Empresa: Engetron Nobreaks
 
